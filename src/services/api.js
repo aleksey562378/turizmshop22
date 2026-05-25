@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://turizmshop-2.onrender.com/';
+const API_URL = 'https://backend-2-d4ko.onrender.com';
 
 // Create axios instance
 const api = axios.create({
